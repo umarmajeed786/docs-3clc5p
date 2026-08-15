@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-wycuwg.kujang138gold.online/sitemap.xml
